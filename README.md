@@ -21,7 +21,7 @@ figure h->the third table
 note:figure i was the resulte of g subtract h
 
 Figure S1:
-figure S1-c:trends in temperature
+figure S1-c:trends in precipitation
 figure S1-d:trends in temperature
 the raster value is change magnitude
 
