@@ -3,7 +3,7 @@ The impact of indicator selection on assessment of global greening data
 
 figure2 a b c d e f:the raster number means：1->greening,2->browning,0->notrend or no vegtation.
 
-figure2 g h i were in table package:figure g->the second table,figure h->the third table,figure i was the resulte of g subtract h
+figure2 g h i were in table.zip package:figure g->the second table,figure h->the third table,figure i was the resulte of g subtract h
 
 figure S1-c and figure S1-d:precipitation and temperature magnitude,the value is change magnitude
 
@@ -25,3 +25,5 @@ figureS4:the raster number means：
 100000-PML-GPP↑
 
 Figure 3 data in branch 2
+
+Figure4 and figure5 data was in table.zip package
